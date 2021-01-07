@@ -1,2 +1,2 @@
 # KaggleCompetitions
-A repository containing some notebooks regarding Kaggle competitions
+A repository containing some notebooks regarding Kaggle competitions.
